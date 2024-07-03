@@ -1,0 +1,5 @@
+pymupdf
+tqdm
+pandas
+spacy
+happytransformer
